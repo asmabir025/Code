@@ -1,0 +1,8 @@
+This folder contains the python scripts I created for the analysis purpose in experimental physics class. 
+
+Besides research opportunities, I have undertaken five different projects in the junior lab (PHYS 310). 
+In the first project involving the use of X-Ray to study the Kα  and Kβ emission lines for molybdenum, copper, and silver, I worked on to experimentally find Plank’s constant, test Mosley’s law and determine Rydberg’s constant. 
+In the second project involving the difference between passive and facilitated diffusion, I derived Langevin’s derivation of Stokes-Einstein’s law of diffusion. On the experimental side, I worked on the temporal evolution of mean square displacement for facilitated diffusion of polystyrene microspheres in the presence of active matter (Euglena and Tetraselmis algae). 
+In the third project, I used Michelson’s interferometer to determine the wavelengths of sodium and mercury emission lines, respectively, and the difference of wavelength between sodium doublet. 
+In the fourth project, I constructed the galaxy rotation curve for the milky way galaxy from a radio telescope observation of atomic hydrogen spectral line emission. Further, I estimated the observed mass and density distribution of the galaxy. 
+In the final project, I numerically solved the critical temperature of a 2D Ising model by implementing the Metropolis algorithm to calculate the average magnetization. Further, I looked into spin-spin correlation through non-diagonal interactions and estimated the critical temperature through the analysis of correlation length. I also explored the finite size effect on the phase transition for the model through a visual, qualitative analysis. 
