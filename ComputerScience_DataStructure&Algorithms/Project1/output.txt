@@ -1,0 +1,243 @@
+----------
+ID: 3
+Name: Turtles All the Way Down (Signed Edition)
+Price: $11.99
+Date: 10-Oct-17
+Quantity: 18
+Author: John Green 
+Publish: Dutton Books for Young Readers
+ISBN: 978-0525555384
+
+----------
+ID: 4
+Name: Milk and Honey
+Price: $8.99
+Date: 6-Oct-15
+Quantity: 34
+Author: Rupi Kaur
+Publish: Andrews McMeel Publishing
+ISBN: 978-1449474256
+
+----------
+ID: 5
+Name: Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Price: $16.79
+Date: 28-Jun-16
+Quantity: 41
+Author:  J. D. Vance
+Publish:  Harper
+ISBN: 978-0062300546
+
+first:
+A Wrinkle in Time (Time Quintet)
+type: Book
+last:
+Dyson DC34 Cordless Handheld Vacuum Cleaner
+type: homegarden
+Total value of the inventory: $243929.43
+--- Print informaion of items of the type fashion ---
+----------
+ID: 36
+Name: Breitling Watch
+Price: $4682.00
+Date: 6/7/2010
+Quantity: 12
+Manufacturer: Breitling
+
+----------
+ID: 37
+Name: Michael Kors Handbag
+Price: $159.00 
+Date: 6/8/2008
+Quantity: 50
+Manufacturer: Kors
+
+----------
+ID: 38
+Name: TAG Heuer Watch
+Price: $793.00 
+Date: 10/13/1995
+Quantity: 15
+Manufacturer: TAG
+
+----------
+ID: 39
+Name: Nike Men's Sneakers
+Price: $99.00 
+Date: 6/5/2002
+Quantity: 45
+Manufacturer: Nike
+
+----------
+ID: 40
+Name: Christian Louboutin Heels
+Price: $550.00 
+Date: 9/4/2003
+Quantity: 14
+Manufacturer: Louboutin
+
+----------
+ID: 41
+Name: CHANEL Perfume
+Price: $64.00 
+Date: 12/12/1995
+Quantity: 22
+Manufacturer: CHANEL
+
+----------
+ID: 42
+Name: Christian Louboutin Handbag
+Price: $270.00 
+Date: 10/22/2004
+Quantity: 34
+Manufacturer: Louboutin
+
+----------
+ID: 43
+Name: Lilly Pulitzer Dress
+Price: $85.00 
+Date: 1/2/2014
+Quantity: 14
+Manufacturer: Pulitzer
+
+----------
+ID: 44
+Name: Coach Handbag
+Price: $48.00 
+Date: 10/12/1996
+Quantity: 22
+Manufacturer: Coach
+
+--- Print completes. ---
+--- Print informaion of items of the type Book ---
+----------
+ID: 0
+Name: A Wrinkle in Time (Time Quintet)
+Price: $5.50
+Date: 1-May-07
+Quantity: 20
+Author: Madeleine L'Engle 
+Publish: Square Fish
+ISBN: 978-0312367541
+
+----------
+ID: 1
+Name: Wonder
+Price: $8.80
+Date: 14-Feb-12
+Quantity: 30
+Author: R. J. Palacio
+Publish: Knopf Books for Young Readers
+ISBN: 978-0375869020
+
+----------
+ID: 2
+Name: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+Price: $14.69
+Date: 13-Sep-16
+Quantity: 25
+Author: Mark Manson 
+Publish: HarperOne
+ISBN: 978-0062457714
+
+----------
+ID: 3
+Name: Turtles All the Way Down (Signed Edition)
+Price: $11.99
+Date: 10-Oct-17
+Quantity: 18
+Author: John Green 
+Publish: Dutton Books for Young Readers
+ISBN: 978-0525555384
+
+----------
+ID: 4
+Name: Milk and Honey
+Price: $8.99
+Date: 6-Oct-15
+Quantity: 34
+Author: Rupi Kaur
+Publish: Andrews McMeel Publishing
+ISBN: 978-1449474256
+
+----------
+ID: 5
+Name: Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Price: $16.79
+Date: 28-Jun-16
+Quantity: 41
+Author:  J. D. Vance
+Publish:  Harper
+ISBN: 978-0062300546
+
+----------
+ID: 6
+Name: The Handmaid's Tale
+Price: $9.97
+Date: 16-Mar-98
+Quantity: 40
+Author:  Margaret Atwood
+Publish: Anchor
+ISBN: 978-0385490818
+
+----------
+ID: 7
+Name: The 5 Love Languages: The Secret to Love that Lasts
+Price: $9.59
+Date: 1-Jan-15
+Quantity: 33
+Author:  Gary Chapman 
+Publish: Northfield Publishing
+ISBN: 978-0802412706
+
+----------
+ID: 8
+Name: The Official SAT Study Guide, 2018 Edition (Official Study Guide for the New Sat) 
+Price: $12.60
+Date: 16-May-17
+Quantity: 100
+Author:  The College Board
+Publish: College Board
+ISBN: 978-1457309281
+
+----------
+ID: 9
+Name: The Late Show
+Price: $12.42
+Date: 18-Jul-17
+Quantity: 14
+Author:  Michael Connelly
+Publish: Little, Brown and Company
+ISBN: 978-0316225984
+
+--- Print completes. ---
+Search for all items with "Time" in name.
+----------
+ID: 0
+Name: A Wrinkle in Time (Time Quintet)
+Price: $5.50
+Date: 1-May-07
+Quantity: 20
+Author: Madeleine L'Engle 
+Publish: Square Fish
+ISBN: 978-0312367541
+
+Search for all items with "Gar" in name.
+----------
+ID: 15
+Name: Garth Brooks: The Ultimate Hits
+Price: $7.89
+Date: 1-Sep-16
+Quantity: 12
+Artist: Garth Brooks
+Label: Pearl Records-Terms
+ASIN: B01JUMUPGW
+
+----------
+ID: 34
+Name: Garmin GPS
+Price: $132.00 
+Date: 11/11/2014
+Quantity: 18
+Manufacturer: Garmin
+

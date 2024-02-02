@@ -1,0 +1,245 @@
+----------
+ID: 3
+Title: Turtles All the Way Down (Signed Edition)
+Author: John Green 
+Date: 10-Oct-17
+Unit Price: $11.99
+Quantity: 18
+Publisher: Dutton Books for Young Readers
+ISBN: 978-0525555384
+
+----------
+ID: 4
+Title: Milk and Honey
+Author: Rupi Kaur
+Date: 6-Oct-15
+Unit Price: $8.99
+Quantity: 34
+Publisher: Andrews McMeel Publishing
+ISBN: 978-1449474256
+
+----------
+ID: 5
+Title: Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Author:  J. D. Vance
+Date: 28-Jun-16
+Unit Price: $16.79
+Quantity: 41
+Publisher:  Harper
+ISBN: 978-0062300546
+
+first:
+A Wrinkle in Time (Time Quintet)
+type: Book
+last:
+Dyson DC34 Cordless Handheld Vacuum Cleaner
+type: homegarden
+Total value of the inventory: $243929.43
+--- Print informaion of items of the type fashion ---
+----------
+ID: 36
+Name: Breitling Watch
+Manufacturer: Breitling
+Date: 6/7/2010
+Unit Price: $4682.00
+Quantity: 12
+
+----------
+ID: 37
+Name: Michael Kors Handbag
+Manufacturer: Kors
+Date: 6/8/2008
+Unit Price: $159.00 
+Quantity: 50
+
+----------
+ID: 38
+Name: TAG Heuer Watch
+Manufacturer: TAG
+Date: 10/13/1995
+Unit Price: $793.00 
+Quantity: 15
+
+----------
+ID: 39
+Name: Nike Men's Sneakers
+Manufacturer: Nike
+Date: 6/5/2002
+Unit Price: $99.00 
+Quantity: 45
+
+----------
+ID: 40
+Name: Christian Louboutin Heels
+Manufacturer: Louboutin
+Date: 9/4/2003
+Unit Price: $550.00 
+Quantity: 14
+
+----------
+ID: 41
+Name: CHANEL Perfume
+Manufacturer: CHANEL
+Date: 12/12/1995
+Unit Price: $64.00 
+Quantity: 22
+
+----------
+ID: 42
+Name: Christian Louboutin Handbag
+Manufacturer: Louboutin
+Date: 10/22/2004
+Unit Price: $270.00 
+Quantity: 34
+
+----------
+ID: 43
+Name: Lilly Pulitzer Dress
+Manufacturer: Pulitzer
+Date: 1/2/2014
+Unit Price: $85.00 
+Quantity: 14
+
+----------
+ID: 44
+Name: Coach Handbag
+Manufacturer: Coach
+Date: 10/12/1996
+Unit Price: $48.00 
+Quantity: 22
+
+--- Print completes. ---
+
+--- Print informaion of items of the type Book ---
+----------
+ID: 0
+Title: A Wrinkle in Time (Time Quintet)
+Author: Madeleine L'Engle 
+Date: 1-May-07
+Unit Price: $5.50
+Quantity: 20
+Publisher: Square Fish
+ISBN: 978-0312367541
+
+----------
+ID: 1
+Title: Wonder
+Author: R. J. Palacio
+Date: 14-Feb-12
+Unit Price: $8.80
+Quantity: 30
+Publisher: Knopf Books for Young Readers
+ISBN: 978-0375869020
+
+----------
+ID: 2
+Title: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+Author: Mark Manson 
+Date: 13-Sep-16
+Unit Price: $14.69
+Quantity: 25
+Publisher: HarperOne
+ISBN: 978-0062457714
+
+----------
+ID: 3
+Title: Turtles All the Way Down (Signed Edition)
+Author: John Green 
+Date: 10-Oct-17
+Unit Price: $11.99
+Quantity: 18
+Publisher: Dutton Books for Young Readers
+ISBN: 978-0525555384
+
+----------
+ID: 4
+Title: Milk and Honey
+Author: Rupi Kaur
+Date: 6-Oct-15
+Unit Price: $8.99
+Quantity: 34
+Publisher: Andrews McMeel Publishing
+ISBN: 978-1449474256
+
+----------
+ID: 5
+Title: Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Author:  J. D. Vance
+Date: 28-Jun-16
+Unit Price: $16.79
+Quantity: 41
+Publisher:  Harper
+ISBN: 978-0062300546
+
+----------
+ID: 6
+Title: The Handmaid's Tale
+Author:  Margaret Atwood
+Date: 16-Mar-98
+Unit Price: $9.97
+Quantity: 40
+Publisher: Anchor
+ISBN: 978-0385490818
+
+----------
+ID: 7
+Title: The 5 Love Languages: The Secret to Love that Lasts
+Author:  Gary Chapman 
+Date: 1-Jan-15
+Unit Price: $9.59
+Quantity: 33
+Publisher: Northfield Publishing
+ISBN: 978-0802412706
+
+----------
+ID: 8
+Title: The Official SAT Study Guide, 2018 Edition (Official Study Guide for the New Sat) 
+Author:  The College Board
+Date: 16-May-17
+Unit Price: $12.60
+Quantity: 100
+Publisher: College Board
+ISBN: 978-1457309281
+
+----------
+ID: 9
+Title: The Late Show
+Author:  Michael Connelly
+Date: 18-Jul-17
+Unit Price: $12.42
+Quantity: 14
+Publisher: Little, Brown and Company
+ISBN: 978-0316225984
+
+--- Print completes. ---
+
+Search for all items with "Time" in name.
+----------
+ID: 0
+Title: A Wrinkle in Time (Time Quintet)
+Author: Madeleine L'Engle 
+Date: 1-May-07
+Unit Price: $5.50
+Quantity: 20
+Publisher: Square Fish
+ISBN: 978-0312367541
+
+Search for all items with "Gar" in name.
+----------
+ID: 15
+Title: Garth Brooks: The Ultimate Hits
+Artist(s): Garth Brooks
+Date: 1-Sep-16
+Unit Price: $7.89
+Quantity: 12
+Label: Pearl Records-Terms
+ASIN: B01JUMUPGW
+
+----------
+ID: 34
+Name: Garmin GPS
+Manufacturer: Garmin
+Date: 11/11/2014
+Unit Price: $132.00 
+Quantity: 18
+
